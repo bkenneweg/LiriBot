@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndrewHeinke/liri-node-app.git"
+    "url": "git+https://github.com/bkenneweg/LiriBot.git"
   },
-  "author": "Andrew Heinke",
+  "author": "Bryan Kenneweg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndrewHeinke/liri-node-app/issues"
+    "url": "https://github.com/bkenneweg/LiriBot/issues"
   },
-  "homepage": "https://github.com/AndrewHeinke/liri-node-app#readme",
+  "homepage": "https://github.com/bkenneweg/LiriBot#readme",
   "dependencies": {
     "request": "^2.72.0",
     "spotify": "^0.3.0",
