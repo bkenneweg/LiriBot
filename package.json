@@ -1,5 +1,5 @@
 {
-  "name": "liri-node-app",
+  "name": "LiriBot",
   "version": "1.0.0",
   "description": "Language Interpretation and Recognition Interface command line node app",
   "main": "liri.js",
