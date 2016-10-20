@@ -33,7 +33,7 @@ function twitter() {
 
 // Pulls Spotify song information based on song title
 function songs(songTitle) {
-  songTitle = "what's my age again";
+  songTitle = "I Want it That Way";
   if (userInput2 !== undefined) {
     songTitle = userInput2;
   }
